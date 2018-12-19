@@ -20,14 +20,14 @@ body {
   grid-gap: 5em;
 }
 
-ul {
-
-}
-
 
 ul li {
   padding-bottom: 1em;
   font-weight: 500;
+}
+
+ul li a {
+  color: #fff;
 }
 
 ul li:before {
